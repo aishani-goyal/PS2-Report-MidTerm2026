@@ -12,6 +12,6 @@ The report documents the ongoing development of a centralized digital platform t
 - UI development and core module implementation
 - Week-wise activity log and future development plan
 
-📄 [View PS2 Mid-Term Report](https://drive.google.com/file/d/15snKc71qLXobnsVeNFv17SdMSl_u4A_w/view?usp=sharing)
+📄 [View PS2 Mid-Term Report - Aishani Goyal](https://drive.google.com/file/d/15snKc71qLXobnsVeNFv17SdMSl_u4A_w/view?usp=sharing)
 
 > **Aishani Goyal (2022BTech007)** | Department of Computer Science and Engineering | JK Lakshmipat University, Jaipur
